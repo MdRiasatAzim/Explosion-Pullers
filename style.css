@@ -77,8 +77,8 @@ h1{font-weight: bold;}
 	margin: 20px 40px;
 	text-align: center;
 	position: relative;
-	width: 130px;
-	height: 120px;;
+	width: 127px;
+	height: 118px;;
 }
 
 .services_icon_in i{
@@ -375,6 +375,6 @@ iframe{
 	}*/
 	
 	.section_1{
-		height: 700px;
+		height: 750px;
 	}
 }
